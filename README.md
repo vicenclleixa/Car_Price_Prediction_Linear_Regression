@@ -10,41 +10,40 @@
 > If you'd like to collab sending a pull-request would be much appreciated :)
 
 ## Index:
-##### 1. Introduction
-##### 1.1. Configuración del entorno
-##### 1.2. Metodología
-##### 2. Entendimiento del negocio
-##### 3. Entendimiento de los datos
-##### 3.1. Descripción general de los datos
-##### 3.2. Análisis Univariante
-##### 3.2.1. Variables Cualitativas
-##### 3.2.2. Variables Cuantitativas
-##### 3.3. Análisis Bivariante
-##### 3.3.1. Variables Cualitativas vs Variable Objeto
-##### 3.3.2. Variables Cuantitativas vs Variable Objeto
-##### 3.4. Análisis Multivariante
-##### 3.5. Calidad del Dato
-##### 3.5.1. Detectar valores nulos
-##### 3.5.2. Detectar valores atípicos
-##### 4. Preparación de los datos
-##### 4.1. Variables
-##### 4.1.1. Variable Combustible
-##### 4.1.2. Variable Transmisión
-##### 4.1.3. Variables CV, Cilindros, Puertas, Consumo Carretera, Consumo Ciudad, Precio
-##### 4.1.4 Variable Tracción
-##### 4.1.5. Variable Estilo
-##### 4.1.6. Variable Tamaño
-##### 4.2. Limpieza de datos
-##### 4.2.1. Eliminar nulos
-##### 4.2.2. Eliminar registros duplicados
-##### 4.2.3. Eliminar valores atípicos
-##### 4.3. Construir
-##### 4.3. Formatear
-##### 5. Desarrollo y Evaluación del Modelo
-##### 5.1. Regresión Lineal Simple
-##### 5.2. Regresión Lineal Múltiple
-##### 5.3. Regularización Ridge
-##### 5.4. Regularización Lasso
+###### 1. Introduction
+###### 1.1. Environment Setup
+###### 1.2. Methodology
+###### 2. Business Understanding
+###### 3. Data Understanding
+###### 3.1. General Data Description
+###### 3.2. Univariate Analysis
+###### 3.2.1. Qualitative Variables
+###### 3.2.2. Quantitative Variables
+###### 3.3. Bivariate Analysis
+###### 3.3.1. Qualitative Variables vs Target Variable
+###### 3.3.2. Quantitative Variables vs Target Variable
+###### 3.4. Multivariate Analysis
+###### 3.5. Data Quality
+###### 3.5.1. Detecting Missing Values
+###### 3.5.2. Detecting Outliers
+###### 4. Data Preparation
+###### 4.1. Variables
+###### 4.1.1. Fuel Variable
+###### 4.1.2. Transmission Variable
+###### 4.1.3. CV, Cylinders, Doors, Highway Consumption, City Consumption, Price Variables
+###### 4.1.4. Drive Variable
+###### 4.1.5. Style Variable
+###### 4.1.6. Size Variable
+###### 4.2. Data Cleaning
+###### 4.2.1. Removing Missing Values
+###### 4.2.2. Removing Duplicate Records
+###### 4.2.3. Removing Outliers
+###### 4.3. Constructing
+###### 4.4. Formatting
+###### 5. Model Development and Evaluation
+###### 5.1. Simple Linear Regression
+###### 5.2. Multiple Linear Regression
+###### 5.3. Ridge Regularization
 
 
 
